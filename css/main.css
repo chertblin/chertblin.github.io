@@ -83,7 +83,7 @@ h4 {
 
 .ban_ {
   z-index: 4;
-  position: absolute;
+  position: absolute !important;
   bottom: 30px;
   left: 10%;
 }

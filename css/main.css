@@ -792,6 +792,7 @@ tbody {
 .index_text {
   text-align: center;
   padding: 20px 0;
+  font-weight: 100;
 }
 
 .line_index {
